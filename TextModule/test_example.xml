@@ -1,0 +1,57 @@
+<id>
+	<page>
+		<multimedia>
+			<type>
+				Text
+			</type>
+			<filelocation>
+				The text to be displayed goes here!
+				New lines should translate to real new lines. Like this.
+			</filelocation>
+			<meta>
+				<style>-fx-font-size: 20pt; -fx-font-family: "Times New Roman"; -fx-color: #000000;</style>
+				<weight>BOLD</weight>
+				<posture>REGULAR</posture>
+				<underlined>false</underlined>
+				<textlocationx>10</textlocationx>
+				<textlocationy>100</textlocationy>
+			</meta>
+		</multimedia>
+		<multimedia>
+			<type>
+				Text
+			</type>
+			<filelocation>
+				C:\TextModule\TextFile.txt
+			</filelocation>
+			<meta>
+				<style>-fx-font-size: 16pt; -fx-font-family: "Courier New"; -fx-color: #334aab;</style>
+				<weight>NORMAL</weight>
+				<posture>REGULAR</posture>
+				<underlined>false</underlined>
+				<textlocationx>10</textlocationx>
+				<textlocationy>200</textlocationy>
+			</meta>
+		</multimedia>
+		<multimedia>
+			<type>
+				Video
+			</type>
+		</multimedia>
+		<multimedia>
+			<type>
+				Text
+			</type>
+			<filelocation>
+			</filelocation>
+			<meta>
+				<style>-fx-font-size: 26pt; -fx-font-family: "Courier New"; -fx-color: #ff4aab;</style>
+				<weight>BOLD</weight>
+				<posture>ITALIC</posture>
+				<underlined>true</underlined>
+				<textlocationx>10</textlocationx>
+				<textlocationy>30</textlocationy>
+			</meta>
+		</multimedia>
+    </page>
+</id>

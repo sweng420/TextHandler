@@ -1,0 +1,21 @@
+<id>
+	<page>
+		<multimedia>
+			<type>
+				Text
+			</type>
+			<filelocation>
+				The text to be displayed goes here!
+				New lines should translate to real new lines. Like this.
+			</filelocation>
+			<meta>
+				<style>-fx-font-size: 16pt; -fx-font-family: "Courier New"; -fx-color: #334aab;</style>
+				<weight>NORMAL</weight>
+				<posture>REGULAR</posture>
+				<underlined>false</underlined>
+				<textlocationx>10</textlocationx>
+				<textlocationy>100</textlocationy>
+			</meta>
+		</multimedia>
+    </page>
+</id>
